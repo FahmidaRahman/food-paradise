@@ -8,6 +8,9 @@ h1{
 p{
     font-size: 18px;
 }
+h2{
+    font-size: 35px;
+}
 .text-color{
     color:orangered;
 }
@@ -21,13 +24,11 @@ p{
 }
 .flex-container{
     display: flex;
+    margin-bottom: 90px;
 }
 .half-width{
     width: 50%;
     padding-left: 5%;
-}
-.half-width img{
-    width: 100%;
 }
 #name-margin{
     margin-top: 100px;
@@ -35,3 +36,17 @@ p{
 .button-margin{
     margin-bottom: 60px;
 }
+#food-img{
+    width: 50%;
+    margin-top: 5%;
+}
+#paragraph-align{
+    padding-right: 8%;
+    padding-top: 5%;
+}
+.middle-banner{
+    background-image: url(background-pic/Frame\ 59.jpg);
+}
+
+    
+
